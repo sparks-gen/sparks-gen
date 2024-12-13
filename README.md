@@ -1,4 +1,4 @@
-Why do I have the urge to fill this in like a CV?
+<h2>Why do I have the urge to fill this in like a CV?</h2>
 * Bachelor's in Molecular Biology and Biotechnology
 * PhD in Human Genetics
 * Wrote a program for PhD that will be published here
